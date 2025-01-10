@@ -1,10 +1,6 @@
 {
   "dinoMappings": [
     {
-      "fromClass": "Blueprint'/Game/PrimalEarth/Dinos/Allosaurus/Allo_Character_BP.Allo_Character_BP'",
-      "toClass": "Blueprint'/Game/PrimalEarth/Dinos/Carno/Carno_Character_BP.Carno_Character_BP'"
-    },
-    {
       "fromClass": "Blueprint'/BetterDinos/Dinos/Achatina/Achatina_Character_BP_ABD.Achatina_Character_BP_ABD'",
       "toClass": "Blueprint'/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP'"
     },
