@@ -1,168 +1,168 @@
 {
   "dinoMappings": [
     {
-      "fromClass": "/BetterDinos/Dinos/Achatina/Achatina_Character_BP_ABD.Achatina_Character_BP_ABD",
-      "toClass": "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP"
+      "fromClass": "Blueprint'/BetterDinos/Dinos/Achatina/Achatina_Character_BP_ABD.Achatina_Character_BP_ABD'",
+      "toClass": "Blueprint'/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP'"
     },
     {
-      "fromClass": "/BetterDinos/Dinos/Achatina/Achatina_Character_BP_Aberrant_ABD.Achatina_Character_BP_Aberrant_ABD",
-      "toClass": "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP_Aberrant.Achatina_Character_BP_Aberrant"
+      "fromClass": "Blueprint'/BetterDinos/Dinos/Achatina/Achatina_Character_BP_Aberrant_ABD.Achatina_Character_BP_Aberrant_ABD'",
+      "toClass": "Blueprint'/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP_Aberrant.Achatina_Character_BP_Aberrant'"
     },
     {
-      "fromClass": "/BetterDinos/Dinos/Ankylo/Ankylo_Character_BP_ABD.Ankylo_Character_BP_ABD",
-      "toClass": "/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP.Ankylo_Character_BP"
+      "fromClass": "Blueprint'/BetterDinos/Dinos/Ankylo/Ankylo_Character_BP_ABD.Ankylo_Character_BP_ABD'",
+      "toClass": "Blueprint'/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP.Ankylo_Character_BP'"
     },
     {
-      "fromClass": "/BetterDinos/Dinos/Ankylo/Ankylo_Character_BP_Aberrant_ABD.Ankylo_Character_BP_Aberrant_ABD",
-      "toClass": "/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP_Aberrant.Ankylo_Character_BP_Aberrant"
+      "fromClass": "Blueprint'/BetterDinos/Dinos/Ankylo/Ankylo_Character_BP_Aberrant_ABD.Ankylo_Character_BP_Aberrant_ABD'",
+      "toClass": "Blueprint'/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP_Aberrant.Ankylo_Character_BP_Aberrant'"
     },
     {
-      "fromClass": "/BetterDinos/Dinos/Ant/Ant_Character_BP_ABD.Ant_Character_BP_ABD",
-      "toClass": "/NoUntameables/Ant/Ant_Character_BP_Tamed.Ant_Character_BP_Tamed"
+      "fromClass": "Blueprint'/BetterDinos/Dinos/Ant/Ant_Character_BP_ABD.Ant_Character_BP_ABD'",
+      "toClass": "Blueprint'/NoUntameables/Ant/Ant_Character_BP_Tamed.Ant_Character_BP_Tamed'"
+    },
+	{
+      "fromClass": "Blueprint'/BetterDinos/Dinos/Ant/FlyingAnt_Character_BP_ABD.FlyingAnt_Character_BP_ABD'",
+      "toClass": "Blueprint'/NoUntameables/Ant/FlyingAnt_Character_BP_Tamed.FlyingAnt_Character_BP_Tamed'"
     },
     {
-      "fromClass": "/BetterDinos/Dinos/Ant/FlyingAnt_Character_BP_ABD.FlyingAnt_Character_BP_ABD",
-      "toClass": "/NoUntameables/Ant/FlyingAnt_Character_BP_Tamed.FlyingAnt_Character_BP_Tamed"
+      "fromClass": "Blueprint'/BetterDinos/Dinos/Archa/Archa_Character_BP_ABD.Archa_Character_BP_ABD'",
+      "toClass": "Blueprint'/Game/PrimalEarth/Dinos/Archaeopteryx/Archa_Character_BP.Archa_Character_BP'"
     },
     {
-      "fromClass": "/BetterDinos/Dinos/Archa/Archa_Character_BP_ABD.Archa_Character_BP_ABD",
-      "toClass": "/Game/PrimalEarth/Dinos/Archaeopteryx/Archa_Character_BP.Archa_Character_BP"
+      "fromClass": "Blueprint'/BetterDinos/Dinos/Arthropluera/Arthro_Character_BP_ABD.Arthro_Character_BP_ABD'",
+      "toClass": "Blueprint'/Game/PrimalEarth/Dinos/Arthropluera/Arthro_Character_BP.Arthro_Character_BP'"
     },
     {
-      "fromClass": "/BetterDinos/Dinos/Arthropluera/Arthro_Character_BP_ABD.Arthro_Character_BP_ABD",
-      "toClass": "/Game/PrimalEarth/Dinos/Arthropluera/Arthro_Character_BP.Arthro_Character_BP"
+      "fromClass": "Blueprint'/BetterDinos/Dinos/Arthropluera/Arthro_Character_BP_Aberrant_ABD.Arthro_Character_BP_Aberrant_ABD'",
+      "toClass": "Blueprint'/Game/PrimalEarth/Dinos/Arthropluera/Arthro_Character_BP_Aberrant.Arthro_Character_BP_Aberrant'"
     },
     {
-      "fromClass": "/BetterDinos/Dinos/Arthropluera/Arthro_Character_BP_Aberrant_ABD.Arthro_Character_BP_Aberrant_ABD",
-      "toClass": "/Game/PrimalEarth/Dinos/Arthropluera/Arthro_Character_BP_Aberrant.Arthro_Character_BP_Aberrant"
+      "fromClass": "Blueprint'/BetterDinos/Dinos/Bat/Bat_Character_BP_ABD.Bat_Character_BP_ABD'",
+      "toClass": "Blueprint'/Game/PrimalEarth/Dinos/Bat/Bat_Character_BP.Bat_Character_BP'"
+    },
+	    {
+      "fromClass": "Blueprint'/BetterDinos/Dinos/Beaver/Beaver_Character_BP_ABD.Beaver_Character_BP_ABD'",
+      "toClass": "Blueprint'/Game/PrimalEarth/Dinos/Beaver/Beaver_Character_BP.Beaver_Character_BP'"
     },
     {
-      "fromClass": "/BetterDinos/Dinos/Bat/Bat_Character_BP_ABD.Bat_Character_BP_ABD",
-      "toClass": "/Game/PrimalEarth/Dinos/Bat/Bat_Character_BP.Bat_Character_BP"
+      "fromClass": "Blueprint'/BetterDinos/Dinos/Daeodon/Daeodon_Character_BP_ABD.Daeodon_Character_BP_ABD'",
+      "toClass": "Blueprint'/Game/PrimalEarth/Dinos/Daeodon/Daeodon_Character_BP.Daeodon_Character_BP'"
     },
     {
-      "fromClass": "/BetterDinos/Dinos/Beaver/Beaver_Character_BP_ABD.Beaver_Character_BP_ABD",
-      "toClass": "/Game/PrimalEarth/Dinos/Beaver/Beaver_Character_BP.Beaver_Character_BP'"
+      "fromClass": "Blueprint'/BetterDinos/Dinos/Doed/Doed_Character_BP_ABD.Doed_Character_BP_ABD'",
+      "toClass": "Blueprint'/Game/PrimalEarth/Dinos/Doedicurus/Doed_Character_BP.Doed_Character_BP'"
     },
     {
-      "fromClass": "/BetterDinos/Dinos/Daeodon/Daeodon_Character_BP_ABD.Daeodon_Character_BP_ABD",
-      "toClass": "/Game/PrimalEarth/Dinos/Daeodon/Daeodon_Character_BP.Daeodon_Character_BP"
+      "fromClass": "Blueprint'/BetterDinos/Dinos/Doed/Doed_Character_BP_Aberrant_ABD.Doed_Character_BP_Aberrant_ABD'",
+      "toClass": "Blueprint'/Game/PrimalEarth/Dinos/Doedicurus/Doed_Character_BP_Aberrant.Doed_Character_BP_Aberrant'"
+    },
+	{
+      "fromClass": "Blueprint'/BetterDinos/Dinos/Dragonfly/Dragonfly_Character_BP_ABD.Dragonfly_Character_BP_ABD'",
+      "toClass": "Blueprint'/NoUntameables/Dragonfly/Dragonfly_Character_BP_Tameable.Dragonfly_Character_BP_Tameable'"
     },
     {
-      "fromClass": "/BetterDinos/Dinos/Doed/Doed_Character_BP_ABD.Doed_Character_BP_ABD",
-      "toClass": "/Game/PrimalEarth/Dinos/Doedicurus/Doed_Character_BP.Doed_Character_BP"
+      "fromClass": "Blueprint'/BetterDinos/Dinos/Dragonfly/DragonFly_Character_BP_Aberrant_ABD.DragonFly_Character_BP_Aberrant_ABD'",
+      "toClass": "Blueprint'/NoUntameables/Dragonfly/Dragonfly_Character_BP_Aberrant_Tameable.Dragonfly_Character_BP_Aberrant_Tameable'"
     },
     {
-      "fromClass": "/BetterDinos/Dinos/Doed/Doed_Character_BP_Aberrant_ABD.Doed_Character_BP_Aberrant_ABD",
-      "toClass": "/Game/PrimalEarth/Dinos/Doedicurus/Doed_Character_BP_Aberrant.Doed_Character_BP_Aberrant"
+      "fromClass": "Blueprint'/BetterDinos/Dinos/DungBeetle/DungBeetle_Character_BP_ABD.DungBeetle_Character_BP_ABD'",
+      "toClass": "Blueprint'/Game/PrimalEarth/Dinos/DungBeetle/DungBeetle_Character_BP.DungBeetle_Character_BP'"
     },
     {
-      "fromClass": "/BetterDinos/Dinos/Dragonfly/Dragonfly_Character_BP_ABD.Dragonfly_Character_BP_ABD",
-      "toClass": "/NoUntameables/Dragonfly/Dragonfly_Character_BP_Tameable.Dragonfly_Character_BP_Tameable."
+      "fromClass": "Blueprint'/BetterDinos/Dinos/DungBeetle/DungBeetle_Character_BP_Aberrant_ABD.DungBeetle_Character_BP_Aberrant_ABD'",
+      "toClass": "Blueprint'/Game/PrimalEarth/Dinos/DungBeetle/DungBeetle_Character_BP_Aberrant.DungBeetle_Character_BP_Aberrant'"
     },
     {
-      "fromClass": "/BetterDinos/Dinos/Dragonfly/DragonFly_Character_BP_Aberrant_ABD.DragonFly_Character_BP_Aberrant_ABD",
-      "toClass": "/NoUntameables/Dragonfly/Dragonfly_Character_BP_Aberrant_Tameable.Dragonfly_Character_BP_Aberrant_Tameable"
+      "fromClass": "Blueprint'/BetterDinos/Dinos/HelperRobot/HelperBot_Character_BP_ABD.HelperBot_Character_BP_ABD'",
+      "toClass": "Blueprint'/Game/Packs/Steampunk/Dinos/HelperBot/HelperBot_Character_BP.HelperBot_Character_BP'"
+    },
+	    {
+      "fromClass": "Blueprint'/BetterDinos/Dinos/IceJumper/IceJumper_Character_BP_ABD.IceJumper_Character_BP_ABD'",
+      "toClass": "Blueprint'/Game/Extinction/Dinos/IceJumper/IceJumper_Character_BP.IceJumper_Character_BP'"
+    },
+	{
+      "fromClass": "Blueprint'/BetterDinos/Dinos/JugBug/JugBug_Oil_Character_BP_ABD.JugBug_Oil_Character_BP_ABD'",
+      "toClass": "Blueprint'/NoUntameables/JugBug/Jugbug_Oil_Character_BP_Tameable.Jugbug_Oil_Character_BP_Tameable'"
     },
     {
-      "fromClass": "/BetterDinos/Dinos/DungBeetle/DungBeetle_Character_BP_ABD.DungBeetle_Character_BP_ABD",
-      "toClass": "/Game/PrimalEarth/Dinos/DungBeetle/DungBeetle_Character_BP.DungBeetle_Character_BP"
+      "fromClass": "Blueprint'/BetterDinos/Dinos/JugBug/JugBug_Water_Character_BP_ABD.JugBug_Water_Character_BP_ABD'",
+      "toClass": "Blueprint'/NoUntameables/JugBug/Jugbug_Water_Character_BP_Tameable.Jugbug_Water_Character_BP_Tameable'"
     },
     {
-      "fromClass": "/BetterDinos/Dinos/DungBeetle/DungBeetle_Character_BP_Aberrant_ABD.DungBeetle_Character_BP_Aberrant_ABD",
-      "toClass": "/Game/PrimalEarth/Dinos/DungBeetle/DungBeetle_Character_BP_Aberrant.DungBeetle_Character_BP_Aberrant"
+      "fromClass": "Blueprint'/BetterDinos/Dinos/JumpingSpider/JumpingSpider_Character_BP_ABD.JumpingSpider_Character_BP_ABD'",
+      "toClass": "Blueprint'/Game/Packs/Steampunk/Dinos/JumpingSpider/JumpingSpider_Character_BP.JumpingSpider_Character_BP'"
+    },
+	{
+      "fromClass": "Blueprint'/BetterDinos/Dinos/Spider/SpiderS_Character_BP_ABD_Climber.SpiderS_Character_BP_ABD_Climber'",
+      "toClass": "Blueprint'/CyrusJumpingSpider/Content/Spider/Jumper/ThoraxSpider_Character_BP.ThoraxSpider_Character_BP'"
+    },
+	{
+      "fromClass": "Blueprint'/BetterDinos/Dinos/Spider/SpiderS_Character_BP_ABD.SpiderS_Character_BP_ABD'",
+      "toClass": "Blueprint'/Game/PrimalEarth/Dinos/Spider-Small/SpiderS_Character_BP.SpiderS_Character_BP'"
     },
     {
-      "fromClass": "/BetterDinos/Dinos/HelperRobot/HelperBot_Character_BP_ABD.HelperBot_Character_BP_ABD",
-      "toClass": "/Game/Packs/Steampunk/Dinos/HelperBot/HelperBot_Character_BP.HelperBot_Character_BP"
+      "fromClass": "Blueprint'/BetterDinos/Dinos/Mantis/Mantis_Character_BP_ABD.Mantis_Character_BP_ABD'",
+      "toClass": "Blueprint'/Game/ScorchedEarth/Dinos/Mantis/Mantis_Character_BP.Mantis_Character_BP'"
     },
     {
-      "fromClass": "/BetterDinos/Dinos/IceJumper/IceJumper_Character_BP_ABD.IceJumper_Character_BP_ABD",
-      "toClass": "/Game/Extinction/Dinos/IceJumper/IceJumper_Character_BP.IceJumper_Character_BP"
+      "fromClass": "Blueprint'/BetterDinos/Dinos/Mosa/Mosa_Character_BP_ABD.Mosa_Character_BP_ABD'",
+      "toClass": "Blueprint'/Game/PrimalEarth/Dinos/Mosasaurus/Mosa_Character_BP.Mosa_Character_BP'"
+    },
+		    {
+      "fromClass": "Blueprint'/BetterDinos/Dinos/Oasisaur/Oasisaur_Character_BP_ABD.Oasisaur_Character_BP_ABD'",
+      "toClass": "Blueprint'/Game/Packs/Frontier/Dinos/Oasisaur/Oasisaur_Character_BP.Oasisaur_Character_BP'"
+    },
+	{
+      "fromClass": "Blueprint'/BetterDinos/Dinos/Pego/Pegomastax_Character_BP_ABD.Pegomastax_Character_BP_ABD'",
+      "toClass": "Blueprint'/Game/PrimalEarth/Dinos/Pegomastax/Pegomastax_Character_BP.Pegomastax_Character_BP'"
     },
     {
-      "fromClass": "/BetterDinos/Dinos/JugBug/JugBug_Oil_Character_BP_ABD.JugBug_Oil_Character_BP_ABD",
-      "toClass": "/NoUntameables/JugBug/Jugbug_Oil_Character_BP_Tameable.Jugbug_Oil_Character_BP_Tameable"
+      "fromClass": "Blueprint'/BetterDinos/Dinos/Phiomia/Phiomia_Character_BP_ABD.Phiomia_Character_BP_ABD'",
+      "toClass": "Blueprint'/Game/PrimalEarth/Dinos/Phiomia/Phiomia_Character_BP.Phiomia_Character_BP'"
     },
     {
-      "fromClass": "/BetterDinos/Dinos/JugBug/JugBug_Water_Character_BP_ABD.JugBug_Water_Character_BP_ABD",
-      "toClass": "/NoUntameables/JugBug/Jugbug_Water_Character_BP_Tameable.Jugbug_Water_Character_BP_Tameable"
+      "fromClass": "Blueprint'/BetterDinos/Dinos/Phoenix/Phoenix_Character_BP_ABD.Phoenix_Character_BP_ABD'",
+      "toClass": "Blueprint'/Game/ScorchedEarth/Dinos/Phoenix/Phoenix_Character_BP.Phoenix_Character_BP'"
     },
     {
-      "fromClass": "/BetterDinos/Dinos/JumpingSpider/JumpingSpider_Character_BP_ABD.JumpingSpider_Character_BP_ABD",
-      "toClass": "/Game/Packs/Steampunk/Dinos/JumpingSpider/JumpingSpider_Character_BP.JumpingSpider_Character_BP'"
+      "fromClass": "Blueprint'/BetterDinos/Dinos/Rhynio/Rhynio_Character_BP_ABD.Rhynio_Character_BP_ABD'",
+      "toClass": "Blueprint'/Game/PrimalEarth/Dinos/Rhyniognatha/Rhynio_Character_BP.Rhynio_Character_BP'"
     },
     {
-      "fromClass": "/BetterDinos/Dinos/Spider/SpiderS_Character_BP_ABD_Climber.SpiderS_Character_BP_ABD_Climber",
-      "toClass": "/CyrusJumpingSpider/Content/Spider/Jumper/ThoraxSpider_Character_BP.ThoraxSpider_Character_BP"
+      "fromClass": "Blueprint'/BetterDinos/Dinos/Saber/Saber_Character_BP_ABD.Saber_Character_BP_ABD'",
+      "toClass": "Blueprint'/Game/PrimalEarth/Dinos/Saber/Saber_Character_BP.Saber_Character_BP'"
+    },
+		    {
+      "fromClass": "Blueprint'/BetterDinos/Dinos/Sauropod/Sauropod_Character_BP_ABD.Sauropod_Character_BP_ABD'",
+      "toClass": "Blueprint'/Game/PrimalEarth/Dinos/Sauropod/Sauropod_Character_BP.Sauropod_Character_BP'"
+    },
+	{
+      "fromClass": "Blueprint'/BetterDinos/Dinos/Scorpion/Scorpion_Character_BP_ABD.Scorpion_Character_BP_ABD'",
+      "toClass": "Blueprint'/Game/PrimalEarth/Dinos/Scorpion/Scorpion_Character_BP.Scorpion_Character_BP'"
     },
     {
-      "fromClass": "/BetterDinos/Dinos/Spider/SpiderS_Character_BP_ABD.SpiderS_Character_BP_ABD",
-      "toClass": "/Game/PrimalEarth/Dinos/Spider-Small/SpiderS_Character_BP.SpiderS_Character_BP"
+      "fromClass": "Blueprint'/BetterDinos/Dinos/Scorpion/Scorpion_Character_BP_Aberrant_ABD.Scorpion_Character_BP_Aberrant_ABD'",
+      "toClass": "Blueprint'/Game/PrimalEarth/Dinos/Scorpion/Scorpion_Character_BP_Aberrant.Scorpion_Character_BP_Aberrant'"
+    },
+	{
+      "fromClass": "Blueprint'/BetterDinos/Dinos/Spino/Spino_Character_BP_ABD.Spino_Character_BP_ABD'",
+      "toClass": "Blueprint'/Game/PrimalEarth/Dinos/Spino/Spino_Character_BP.Spino_Character_BP'"
+    },
+	{
+      "fromClass": "Blueprint'/BetterDinos/Dinos/Spino/Spino_Character_BP_Aberrant_ABD.Spino_Character_BP_Aberrant_ABD'",
+      "toClass": "Blueprint'/Game/PrimalEarth/Dinos/Spino/Spino_Character_BP_Aberrant.Spino_Character_BP_Aberrant'"
     },
     {
-      "fromClass": "/BetterDinos/Dinos/Mantis/Mantis_Character_BP_ABD.Mantis_Character_BP_ABD",
-      "toClass": "/Game/ScorchedEarth/Dinos/Mantis/Mantis_Character_BP.Mantis_Character_BP"
+      "fromClass": "Blueprint'/BetterDinos/Dinos/Wyvern/Wyvern_Character_BP_Fire_ABD.Wyvern_Character_BP_Fire_ABD'",
+      "toClass": "Blueprint'/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Fire.Wyvern_Character_BP_Fir'"
     },
     {
-      "fromClass": "/BetterDinos/Dinos/Mosa/Mosa_Character_BP_ABD.Mosa_Character_BP_ABD",
-      "toClass": "/Game/PrimalEarth/Dinos/Mosasaurus/Mosa_Character_BP.Mosa_Character_BP"
+      "fromClass": "Blueprint'/BetterDinos/Dinos/Wyvern/Wyvern_Character_BP_Lightning_ABD.Wyvern_Character_BP_Lightning_ABD'",
+      "toClass": "Blueprint'/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Lightning.Wyvern_Character_BP_Lightning'"
     },
     {
-      "fromClass": "/BetterDinos/Dinos/Oasisaur/Oasisaur_Character_BP_ABD.Oasisaur_Character_BP_ABD",
-      "toClass": "/Game/Packs/Frontier/Dinos/Oasisaur/Oasisaur_Character_BP.Oasisaur_Character_BP"
-    },
-    {
-      "fromClass": "/BetterDinos/Dinos/Pego/Pegomastax_Character_BP_ABD.Pegomastax_Character_BP_ABD",
-      "toClass": "/Game/PrimalEarth/Dinos/Pegomastax/Pegomastax_Character_BP.Pegomastax_Character_BP"
-    },
-    {
-      "fromClass": "/BetterDinos/Dinos/Phiomia/Phiomia_Character_BP_ABD.Phiomia_Character_BP_ABD",
-      "toClass": "/Game/PrimalEarth/Dinos/Phiomia/Phiomia_Character_BP.Phiomia_Character_BP"
-    },
-    {
-      "fromClass": "/BetterDinos/Dinos/Phoenix/Phoenix_Character_BP_ABD.Phoenix_Character_BP_ABD",
-      "toClass": "/Game/ScorchedEarth/Dinos/Phoenix/Phoenix_Character_BP.Phoenix_Character_BP"
-    },
-    {
-      "fromClass": "/BetterDinos/Dinos/Rhynio/Rhynio_Character_BP_ABD.Rhynio_Character_BP_ABD",
-      "toClass": "/Game/PrimalEarth/Dinos/Rhyniognatha/Rhynio_Character_BP.Rhynio_Character_BP"
-    },
-    {
-      "fromClass": "/BetterDinos/Dinos/Saber/Saber_Character_BP_ABD.Saber_Character_BP_ABD",
-      "toClass": "/Game/PrimalEarth/Dinos/Saber/Saber_Character_BP.Saber_Character_BP"
-    },
-    {
-      "fromClass": "/BetterDinos/Dinos/Sauropod/Sauropod_Character_BP_ABD.Sauropod_Character_BP_ABD",
-      "toClass": "/Game/PrimalEarth/Dinos/Sauropod/Sauropod_Character_BP.Sauropod_Character_BP"
-    },
-    {
-      "fromClass": "/BetterDinos/Dinos/Scorpion/Scorpion_Character_BP_ABD.Scorpion_Character_BP_ABD",
-      "toClass": "/Game/PrimalEarth/Dinos/Scorpion/Scorpion_Character_BP.Scorpion_Character_BP"
-    },
-    {
-      "fromClass": "/BetterDinos/Dinos/Scorpion/Scorpion_Character_BP_Aberrant_ABD.Scorpion_Character_BP_Aberrant_ABD",
-      "toClass": "/Game/PrimalEarth/Dinos/Scorpion/Scorpion_Character_BP_Aberrant.Scorpion_Character_BP_Aberrant"
-    },
-    {
-      "fromClass": "/BetterDinos/Dinos/Spino/Spino_Character_BP_ABD.Spino_Character_BP_ABD",
-      "toClass": "/Game/PrimalEarth/Dinos/Spino/Spino_Character_BP.Spino_Character_BP"
-    },
-    {
-      "fromClass": "/BetterDinos/Dinos/Spino/Spino_Character_BP_Aberrant_ABD.Spino_Character_BP_Aberrant_ABD",
-      "toClass": "/Game/PrimalEarth/Dinos/Spino/Spino_Character_BP_Aberrant.Spino_Character_BP_Aberrant"
-    },
-    {
-      "fromClass": "/BetterDinos/Dinos/Wyvern/Wyvern_Character_BP_Fire_ABD.Wyvern_Character_BP_Fire_ABD",
-      "toClass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Fire.Wyvern_Character_BP_Fire"
-    },
-    {
-      "fromClass": "/BetterDinos/Dinos/Wyvern/Wyvern_Character_BP_Lightning_ABD.Wyvern_Character_BP_Lightning_ABD",
-      "toClass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Lightning.Wyvern_Character_BP_Lightning"
-    },
-    {
-      "fromClass": "/BetterDinos/Dinos/Wyvern/Wyvern_Character_BP_Poison_ABD.Wyvern_Character_BP_Poison_ABD",
-      "toClass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Poison.Wyvern_Character_BP_Poison"
+      "fromClass": "Blueprint'/BetterDinos/Dinos/Wyvern/Wyvern_Character_BP_Poison_ABD.Wyvern_Character_BP_Poison_ABD'",
+      "toClass": "Blueprint'/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Poison.Wyvern_Character_BP_Poison'"
     }
   ]
 }
