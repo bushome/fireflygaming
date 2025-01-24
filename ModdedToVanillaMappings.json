@@ -94,7 +94,7 @@
     },
     {
       "fromClass": "/BetterDinos/Dinos/Spider/SpiderS_Character_BP_ABD_Climber.SpiderS_Character_BP_ABD_Climber",
-      "toClass": "/CyrusJumpingSpider/Content/Spider/Jumper/ThoraxSpider_Character_BP.ThoraxSpider_Character_BP"
+      "toClass": "/CyrusJumpingSpider/Spider/Jumper/ThoraxSpider_Character_BP.ThoraxSpider_Character_BP"
     },
     {
       "fromClass": "/BetterDinos/Dinos/Spider/SpiderS_Character_BP_ABD.SpiderS_Character_BP_ABD",
@@ -154,7 +154,7 @@
     },
     {
       "fromClass": "/BetterDinos/Dinos/Wyvern/Wyvern_Character_BP_Fire_ABD.Wyvern_Character_BP_Fire_ABD",
-      "toClass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Fire.Wyvern_Character_BP_Fir"
+      "toClass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Fire.Wyvern_Character_BP_Fire"
     },
     {
       "fromClass": "/BetterDinos/Dinos/Wyvern/Wyvern_Character_BP_Lightning_ABD.Wyvern_Character_BP_Lightning_ABD",
