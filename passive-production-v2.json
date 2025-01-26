@@ -1028,9 +1028,9 @@
                     "items": [
 						{
                             "bpPath": "/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_GasBag.PrimalItemResource_ApexDrop_GasBag",
-                            "maxQuantityPerCycle": 50,
+                            "maxQuantityPerCycle": 5,
                             "maxQuantityInTerminal": 1000,
-                            "quantityPerDino": 10,
+                            "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0.0,
                             "alternateItems": [],
@@ -1052,9 +1052,9 @@
                     "items": [
 						{
                             "bpPath": "/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_GasBag.PrimalItemResource_ApexDrop_GasBag",
-                            "maxQuantityPerCycle": 50,
+                            "maxQuantityPerCycle": 5,
                             "maxQuantityInTerminal": 1000,
-                            "quantityPerDino": 10,
+                            "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0.0,
                             "alternateItems": [],
@@ -1103,6 +1103,30 @@
                             "maxQuantityPerCycle": 50,
                             "maxQuantityInTerminal": 1000,
                             "quantityPerDino": 10,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0.0,
+                            "alternateItems": [],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
+                }
+            ]
+        },
+		{
+            "dinoType": "/Game/PrimalEarth/Dinos/Bat/Bat_Character_BP.Bat_Character_BP",
+            "chanceToProduce": 1.0,
+            "produces": [
+                {
+                    "intervalSeconds": 900.0,
+                    "itemSelectMode": 0,
+                    "items": [
+			{
+                            "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_BloodPack.PrimalItemConsumable_BloodPack",
+                            "maxQuantityPerCycle": 5,
+                            "maxQuantityInTerminal": 10000,
+                            "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0.0,
                             "alternateItems": [],
