@@ -135,6 +135,22 @@
     {
       "fromClass": "/EnchantedVariants/Wyvern/Poison/Wyvern_Character_BP_Poison_Temptress.Wyvern_Character_BP_Poison_Temptress",
       "toClass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Poison.Wyvern_Character_BP_Poison"
+    },
+    {
+      "fromClass": "/EnchantedVariants/Dragon/TL_Mini_Dragon_Character_BP.TL_Mini_Dragon_Character_BP",
+      "toClass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Fire.Wyvern_Character_BP_Fire"
+    },
+    {
+      "fromClass": "/EnchantedVariants/Dragon/TL_Mini_Dragon_Character_BP_Lightning.TL_Mini_Dragon_Character_BP_Lightning",
+      "toClass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Lightning.Wyvern_Character_BP_Lightning"
+    },
+    {
+      "fromClass": "/EnchantedVariants/Dragon/TL_Mini_Dragon_Character_BP_Poison.TL_Mini_Dragon_Character_BP_Poison",
+      "toClass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Poison.Wyvern_Character_BP_Poison"
+    },
+    {
+      "fromClass": "/EnchantedVariants/Desmodus/Desmodus_Character_BP_Temptress.Desmodus_Character_BP_Temptress",
+      "toClass": "/Game/PrimalEarth/Dinos/Bat/Bat_Character_BP.Bat_Character_BP"
     }
   ]
 }
