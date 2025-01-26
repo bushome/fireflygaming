@@ -1,4 +1,140 @@
 {
   "dinoMappings": [
+    {
+      "fromClass": "/EnchantedVariants/Allo/Allo_Character_BP_Temptress.Allo_Character_BP_Temptress",
+      "toClass": "/Game/PrimalEarth/Dinos/Allosaurus/Allo_Character_BP.Allo_Character_BP"
+    },
+    {
+      "fromClass": "/EnchantedVariants/Ankylo/Ankylo_Character_BP_Temptress.Ankylo_Character_BP_Temptress",
+      "toClass": "/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP_Aberrant.Ankylo_Character_BP_Aberrant"
+    },
+    {
+      "fromClass": "/EnchantedVariants/Argent/Argent_Character_BP_Temptress.Argent_Character_BP_Temptress",
+      "toClass": "/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP"
+    },
+    {
+      "fromClass": "/EnchantedVariants/Baryonyx/Baryonyx_Character_BP_Temptress.Baryonyx_Character_BP_Temptress",
+      "toClass": "/Game/PrimalEarth/Dinos/Baryonyx/Baryonyx_Character_BP_Aberrant.Baryonyx_Character_BP_Aberrant"
+    },
+    {
+      "fromClass": "/EnchantedVariants/Basilisk/Basilisk_Character_BP_Temptress.Basilisk_Character_BP_Temptress",
+      "toClass": "/Game/Aberration/Dinos/Basilisk/Basilisk_Character_BP.Basilisk_Character_BP"
+    },
+    {
+      "fromClass": "/EnchantedVariants/Carno/Carno_Character_BP_Temptress.Carno_Character_BP_Temptress",
+      "toClass": "/Game/PrimalEarth/Dinos/Carno/Carno_Character_BP_Aberrant.Carno_Character_BP_Aberrant"
+    },
+    {
+      "fromClass": "/EnchantedVariants/Deinonychus/Deinonychus_Character_BP_Temptress.Deinonychus_Character_BP_Temptress",
+      "toClass": "/SDinoVariants/S-Deinonychus/S-Deinonychus_Character_BP.S-Deinonychus_Character_BP"
+    },
+    {
+      "fromClass": "/EnchantedVariants/Direbear/Direbear_Character_BP_Temptress.Direbear_Character_BP_Temptress",
+      "toClass": "/Game/PrimalEarth/Dinos/Direbear/Direbear_Character_BP_Aberrant.Direbear_Character_BP_Aberrant"
+    },
+    {
+      "fromClass": "/EnchantedVariants/Equus/Equus_Character_BP_Temptress.Equus_Character_BP_Temptress",
+      "toClass": "/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP_Aberrant.Equus_Character_BP_Aberrant"
+    },
+    {
+      "fromClass": "/EnchantedVariants/Gacha/Gacha_Character_BP_Temptress.Gacha_Character_BP_Temptress",
+      "toClass": "/Game/Extinction/Dinos/Gacha/Gacha_Character_BP.Gacha_Character_BP"
+    },
+    {
+      "fromClass": "/EnchantedVariants/Griffin/Griffin_Character_BP_Temptress.Griffin_Character_BP_Temptress",
+      "toClass": "/MarniiModsOwlgriffins/OwlGriffin/OwlGriffin_MM_Character_BP.OwlGriffin_MM_Character_BP"
+    },
+    {
+      "fromClass": "/EnchantedVariants/Leopleurodon/Liopleurodon_Character_BP_Temptress.Liopleurodon_Character_BP_Temptress",
+      "toClass": "/Game/PrimalEarth/Dinos/Liopleurodon/Liopleurodon_Character_BP.Liopleurodon_Character_BP"
+    },
+    {
+      "fromClass": "/EnchantedVariants/Mantis/Mantis_Character_BP_Temptress.Mantis_Character_BP_Temptress",
+      "toClass": "/Game/ScorchedEarth/Dinos/Mantis/Mantis_Character_BP.Mantis_Character_BP"
+    },
+    {
+      "fromClass": "/EnchantedVariants/Moschops/Moschops_Character_BP_Temptress.Moschops_Character_BP_Temptress",
+      "toClass": "/Game/PrimalEarth/Dinos/Moschops/Moschops_Character_BP_Aberrant.Moschops_Character_BP_Aberrant"
+    },
+    {
+      "fromClass": "/EnchantedVariants/Moschops/Moschops_Character_BP_Temptress_Celestial.Moschops_Character_BP_Temptress_Celestial",
+      "toClass": "/Game/PrimalEarth/Dinos/Moschops/Moschops_Character_BP_Aberrant.Moschops_Character_BP_Aberrant"
+    },
+    {
+      "fromClass": "/EnchantedVariants/Moschops/Moschops_Character_BP_Temptress_Legendary.Moschops_Character_BP_Temptress_Legendary",
+      "toClass": "/Game/PrimalEarth/Dinos/Moschops/Moschops_Character_BP_Aberrant.Moschops_Character_BP_Aberrant"
+    },
+    {
+      "fromClass": "/EnchantedVariants/Moschops/Moschops_Character_BP_Temptress_Majestic.Moschops_Character_BP_Temptress_Majestic",
+      "toClass": "/Game/PrimalEarth/Dinos/Moschops/Moschops_Character_BP_Aberrant.Moschops_Character_BP_Aberrant"
+    },
+    {
+      "fromClass": "/EnchantedVariants/Moschops/Moschops_Character_BP_Temptress_Mythical.Moschops_Character_BP_Temptress_Mythical",
+      "toClass": "/Game/PrimalEarth/Dinos/Moschops/Moschops_Character_BP_Aberrant.Moschops_Character_BP_Aberrant"
+    },
+    {
+      "fromClass": "/EnchantedVariants/Moschops/Moschops_Character_BP_Temptress_Primal.Moschops_Character_BP_Temptress_Primal",
+      "toClass": "/Game/PrimalEarth/Dinos/Moschops/Moschops_Character_BP_Aberrant.Moschops_Character_BP_Aberrant"
+    },
+    {
+      "fromClass": "/EnchantedVariants/Moschops/Moschops_Character_BP_Temptress_Savage.Moschops_Character_BP_Temptress_Savage",
+      "toClass": "/Game/PrimalEarth/Dinos/Moschops/Moschops_Character_BP_Aberrant.Moschops_Character_BP_Aberrant"
+    },
+    {
+      "fromClass": "/EnchantedVariants/Phoenix/Phoenix_Character_BP_TL.Phoenix_Character_BP_TL",
+      "toClass": "/Game/ScorchedEarth/Dinos/Phoenix/Phoenix_Character_BP.Phoenix_Character_BP"
+    },
+    {
+      "fromClass": "/EnchantedVariants/Raptor/Raptor_Character_BP_Temptress.Raptor_Character_BP_Temptress",
+      "toClass": "/Game/PrimalEarth/Dinos/Raptor/Raptor_Character_BP_Aberrant.Raptor_Character_BP_Aberrant"
+    },
+    {
+      "fromClass": "/EnchantedVariants/Rex/Rex_Character_BP_Temptress.Rex_Character_BP_Temptress",
+      "toClass": "/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP"
+    },
+    {
+      "fromClass": "/EnchantedVariants/RockDrake/RockDrake_Character_BP_Temptress.RockDrake_Character_BP_Temptress",
+      "toClass": "/Game/Aberration/Dinos/RockDrake/RockDrake_Character_BP.RockDrake_Character_BP"
+    },
+    {
+      "fromClass": "/EnchantedVariants/Sheep/Sheep_Character_BP_Temptress.Sheep_Character_BP_Temptress",
+      "toClass": "/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP_Aberrant.Sheep_Character_BP_Aberrant"
+    },
+    {
+      "fromClass": "/EnchantedVariants/Spino/Spino_Character_BP_Temptress.Spino_Character_BP_Temptress",
+      "toClass": "/Game/PrimalEarth/Dinos/Spino/Spino_Character_BP_Aberrant.Spino_Character_BP_Aberrant"
+    },
+    {
+      "fromClass": "/EnchantedVariants/Therizino/Therizino_Character_BP_Temptress.Therizino_Character_BP_Temptress",
+      "toClass": "/Game/PrimalEarth/Dinos/Therizinosaurus/Therizino_Character_BP.Therizino_Character_BP"
+    },
+    {
+      "fromClass": "/EnchantedVariants/ThornyDragon/SpineyLizard_Character_BP_Temptress.SpineyLizard_Character_BP_Temptress",
+      "toClass": "/Game/ScorchedEarth/Dinos/SpineyLizard/SpineyLizard_Character_BP.SpineyLizard_Character_BP"
+    },
+    {
+      "fromClass": "/EnchantedVariants/Trike/Trike_Character_BP_Temptress.Trike_Character_BP_Temptress",
+      "toClass": "/Game/PrimalEarth/Dinos/Trike/Trike_Character_BP_Aberrant.Trike_Character_BP_Aberrant"
+    },
+    {
+      "fromClass": "/EnchantedVariants/Wyvern/Wyvern_Character_BP_Pink.Wyvern_Character_BP_Pink",
+      "toClass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Fire.Wyvern_Character_BP_Fire"
+    },
+    {
+      "fromClass": "/EnchantedVariants/Wyvern/ICE/Wyvern_Character_BP_Ice_Temptress.Wyvern_Character_BP_Ice_Temptress",
+      "toClass": "/Game/Mods/Ragnarok/Custom_Assets/Dinos/Wyvern/Ice_Wyvern/Ragnarok_Wyvern_Override_Ice.Ragnarok_Wyvern_Override_Ice"
+    },
+    {
+      "fromClass": "/EnchantedVariants/Wyvern/Lightning/Wyvern_Character_BP_Lightning_Temptress.Wyvern_Character_BP_Lightning_Temptress",
+      "toClass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Lightning.Wyvern_Character_BP_Lightning"
+    },
+    {
+      "fromClass": "/EnchantedVariants/Wyvern/Plasma/Wyvern_Character_BP_Plasma_Temptress.Wyvern_Character_BP_Plasma_Temptress",
+      "toClass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Lightning.Wyvern_Character_BP_Lightning"
+    },
+    {
+      "fromClass": "/EnchantedVariants/Wyvern/Poison/Wyvern_Character_BP_Poison_Temptress.Wyvern_Character_BP_Poison_Temptress",
+      "toClass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Poison.Wyvern_Character_BP_Poison"
+    }
   ]
 }
