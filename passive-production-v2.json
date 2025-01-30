@@ -902,133 +902,133 @@
                             "bpPath": "/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_CorruptedWood.PrimalItemResource_CorruptedWood",
                             "maxQuantityPerCycle": 0,
                             "maxQuantityInTerminal": 1000,
-                            "quantityPerDino": 15,
+                            "quantityPerDino": 1,
                             "alternateSelectMode": 1,
                             "alternateItemsChance": 0.78,
                             "alternateItems": [
                                 {
                                     "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Fibers.PrimalItemResource_Fibers",
-                                    "quantityPerItem": 15,
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 50000
                                 },
                                 {
                                     "bpPath": "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Flint.PrimalItemResource_Flint",
-                                    "quantityPerItem": 15,
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 10000
                                 },
                                 {
                                     "bpPath": "/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_FracturedGem.PrimalItemResource_FracturedGem",
-                                    "quantityPerItem": 15,
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 1000
                                 },
                                 {
                                     "bpPath": "/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_RawSalt.PrimalItemResource_RawSalt",
-                                    "quantityPerItem": 15,
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 5000
                                 },
                                 {
                                     "bpPath": "/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_Sand.PrimalItemResource_Sand",
-                                    "quantityPerItem": 15,
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 1000
                                 },
                                 {
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Stone.PrimalItemResource_Stone",
-                                    "quantityPerItem": 15,
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 2000
                                 },
                                 {
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Thatch.PrimalItemResource_Thatch",
-                                    "quantityPerItem": 15,
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 25000
                                 },
                                 {
                                     "bpPath": "/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_BlueSap.PrimalItemResource_BlueSap",
-                                    "quantityPerItem": 15,
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 1000
                                 },
                                 {
                                     "bpPath": "/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_Clay.PrimalItemResource_Clay",
-                                    "quantityPerItem": 15,
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 10000
                                 },
                                 {
                                     "bpPath": "/Game/Aberration/CoreBlueprints/Resources/PrimalItemResource_Gas.PrimalItemResource_Gas",
-                                    "quantityPerItem": 15,
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 5000
                                 },
                                 {
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Crystal.PrimalItemResource_Crystal",
-                                    "quantityPerItem": 15,
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 2500
                                 },
                                 {
                                     "bpPath": "/Game/PrimalEarth/Dinos/Tusoteuthis/PrimalItemResource_SquidOil.PrimalItemResource_SquidOil",
-                                    "quantityPerItem": 15,
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 2500
                                 },
                                 {
                                     "bpPath": "/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_Silk.PrimalItemResource_Silk",
-                                    "quantityPerItem": 15,
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 50000
                                 },
                                 {
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl",
-                                    "quantityPerItem": 15,
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 5000
                                 },
                                 {
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Metal.PrimalItemResource_Metal",
-                                    "quantityPerItem": 15,
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 2500
                                 },
                                 {
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Obsidian.PrimalItemResource_Obsidian",
-                                    "quantityPerItem": 15,
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 1000
                                 },
                                 {
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer_Organic.PrimalItemResource_Polymer_Organic",
-                                    "quantityPerItem": 15,
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 2000
                                 },
                                 {
                                     "bpPath": "/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_RedSap.PrimalItemResource_RedSap",
-                                    "quantityPerItem": 15,
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 1000
                                 },
                                 {
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Sap.PrimalItemResource_Sap",
-                                    "quantityPerItem": 15,
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 1000
                                 },
                                 {
                                     "bpPath": "/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_Sulfur.PrimalItemResource_Sulfur",
-                                    "quantityPerItem": 15,
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 10000
                                 },
                                 {
                                     "bpPath": "/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_ElementDust.PrimalItemResource_ElementDust",
-                                    "quantityPerItem": 15,
+                                    "quantityPerItem": 1,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 5000
                                 }
