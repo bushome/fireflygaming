@@ -42,7 +42,7 @@
                     "items": [
                         {
                             "bpPath": "/Game/PrimalEarth/Dinos/Achatina/PrimalItemResource_SnailPaste.PrimalItemResource_SnailPaste",
-                            "maxQuantityPerCycle": 100,
+                            "maxQuantityPerCycle": 20,
                             "maxQuantityInTerminal": 10000,
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
@@ -84,7 +84,7 @@
                     "items": [
                         {
                             "bpPath": "/Game/PrimalEarth/Dinos/Achatina/PrimalItemResource_SnailPaste.PrimalItemResource_SnailPaste",
-                            "maxQuantityPerCycle": 100,
+                            "maxQuantityPerCycle": 20,
                             "maxQuantityInTerminal": 10000,
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
