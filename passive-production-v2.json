@@ -1789,12 +1789,17 @@
                         {
                             "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Pelt.PrimalItemResource_Pelt",
                             "maxQuantityPerCycle": 50,
-                            "maxQuantityInTerminal": 50000,
+                            "maxQuantityInTerminal": 10000,
                             "quantityPerDino": 5,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0.5,
                             "alternateItems": [
-                                "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Keratin.PrimalItemResource_Keratin"
+                                {
+                                    "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Keratin.PrimalItemResource_Keratin",
+                                    "quantityPerItem": 5,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
                             ],
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
@@ -1815,12 +1820,17 @@
                         {
                             "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Pelt.PrimalItemResource_Pelt",
                             "maxQuantityPerCycle": 50,
-                            "maxQuantityInTerminal": 50000,
+                            "maxQuantityInTerminal": 10000,
                             "quantityPerDino": 5,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0.5,
                             "alternateItems": [
-                                "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Keratin.PrimalItemResource_Keratin"
+                                {
+                                    "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Keratin.PrimalItemResource_Keratin",
+                                    "quantityPerItem": 5,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
                             ],
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
@@ -1846,7 +1856,12 @@
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0.5,
                             "alternateItems": [
-                                "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_RareFlower.PrimalItemResource_RareFlower"
+                                {
+                                    "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_RareFlower.PrimalItemResource_RareFlower",
+                                    "quantityPerItem": 5,
+                                    "maxQuantityPerCycle": 0,
+                                    "maxQuantityInTerminal": 0
+                                }
                             ],
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
