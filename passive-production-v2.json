@@ -1797,8 +1797,8 @@
                                 {
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Keratin.PrimalItemResource_Keratin",
                                     "quantityPerItem": 5,
-                                    "maxQuantityPerCycle": 0,
-                                    "maxQuantityInTerminal": 0
+                                    "maxQuantityPerCycle": 50,
+                                    "maxQuantityInTerminal": 10000
                                 }
                             ],
                             "comsumesSelectMode": 0,
@@ -1828,8 +1828,8 @@
                                 {
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Keratin.PrimalItemResource_Keratin",
                                     "quantityPerItem": 5,
-                                    "maxQuantityPerCycle": 0,
-                                    "maxQuantityInTerminal": 0
+                                    "maxQuantityPerCycle": 50,
+                                    "maxQuantityInTerminal": 10000
                                 }
                             ],
                             "comsumesSelectMode": 0,
@@ -1859,8 +1859,8 @@
                                 {
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_RareFlower.PrimalItemResource_RareFlower",
                                     "quantityPerItem": 5,
-                                    "maxQuantityPerCycle": 0,
-                                    "maxQuantityInTerminal": 0
+                                    "maxQuantityPerCycle": 50,
+                                    "maxQuantityInTerminal": 5000
                                 }
                             ],
                             "comsumesSelectMode": 0,
