@@ -1841,7 +1841,7 @@
                         {
                             "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_RareMushroom.PrimalItemResource_RareMushroom",
                             "maxQuantityPerCycle": 50,
-                            "maxQuantityInTerminal": 50000,
+                            "maxQuantityInTerminal": 5000,
                             "quantityPerDino": 5,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0.5,
