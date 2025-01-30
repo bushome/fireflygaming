@@ -61,7 +61,7 @@
                         {
                             "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer_Organic.PrimalItemResource_Polymer_Organic",
                             "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 2500,
+                            "maxQuantityInTerminal": 2000,
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
@@ -103,7 +103,7 @@
                         {
                             "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer_Organic.PrimalItemResource_Polymer_Organic",
                             "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 2500,
+                            "maxQuantityInTerminal": 2000,
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
@@ -928,7 +928,7 @@
                                     "bpPath": "/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_RawSalt.PrimalItemResource_RawSalt",
                                     "quantityPerItem": 15,
                                     "maxQuantityPerCycle": 0,
-                                    "maxQuantityInTerminal": 10000
+                                    "maxQuantityInTerminal": 5000
                                 },
                                 {
                                     "bpPath": "/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_Sand.PrimalItemResource_Sand",
@@ -940,7 +940,7 @@
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Stone.PrimalItemResource_Stone",
                                     "quantityPerItem": 15,
                                     "maxQuantityPerCycle": 0,
-                                    "maxQuantityInTerminal": 1000
+                                    "maxQuantityInTerminal": 2000
                                 },
                                 {
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Thatch.PrimalItemResource_Thatch",
@@ -970,7 +970,7 @@
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Crystal.PrimalItemResource_Crystal",
                                     "quantityPerItem": 15,
                                     "maxQuantityPerCycle": 0,
-                                    "maxQuantityInTerminal": 500
+                                    "maxQuantityInTerminal": 2500
                                 },
                                 {
                                     "bpPath": "/Game/PrimalEarth/Dinos/Tusoteuthis/PrimalItemResource_SquidOil.PrimalItemResource_SquidOil",
@@ -1006,7 +1006,7 @@
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer_Organic.PrimalItemResource_Polymer_Organic",
                                     "quantityPerItem": 15,
                                     "maxQuantityPerCycle": 0,
-                                    "maxQuantityInTerminal": 2500
+                                    "maxQuantityInTerminal": 2000
                                 },
                                 {
                                     "bpPath": "/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_RedSap.PrimalItemResource_RedSap",
@@ -1052,7 +1052,7 @@
                         {
                             "bpPath": "/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_RawSalt.PrimalItemResource_RawSalt",
                             "maxQuantityPerCycle": 50,
-                            "maxQuantityInTerminal": 10000,
+                            "maxQuantityInTerminal": 5000,
                             "quantityPerDino": 15,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
@@ -1076,7 +1076,7 @@
                         {
                             "bpPath": "/Game/ScorchedEarth/CoreBlueprints/Consumables/PrimalItemConsumable_CactusSap.PrimalItemConsumable_CactusSap",
                             "maxQuantityPerCycle": 50,
-                            "maxQuantityInTerminal": 10000,
+                            "maxQuantityInTerminal": 5000,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
