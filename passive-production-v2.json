@@ -1195,7 +1195,7 @@
                     "items": [
                         {
                             "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_BloodPack.PrimalItemConsumable_BloodPack",
-                            "maxQuantityPerCycle": 50
+                            "maxQuantityPerCycle": 50,
                             "maxQuantityInTerminal": 1000,
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
