@@ -1,4 +1,9 @@
 {
   "dinoMappings": [
+    {
+      "fromClass": "/Game/PrimalEarth/Dinos/Therizinosaurus/Therizino_Character_BP.Therizino_Character_BP",
+      "toClass": "/Mods/SDinoVariants//S-Therizinosaur/S-Therizino_Character_BP.S-Therizino_Character_BP"
+    }
   ]
 }
+
