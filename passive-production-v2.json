@@ -189,7 +189,7 @@
             ]
         },
         {
-            "dinoType": "/ATBombardierBeetle/CBombardierBeetle/BombardierBeetle_Character_BP_Chemical.BombardierBeetle_Character_BP_Chemical",
+            "dinoType": "/ATBombardierBeetle/CBombardierBeetle/BombardierBeetle_Character_BP_Flame.BombardierBeetle_Character_BP_Flame",
             "chanceToProduce": 1,
             "produces": [
                 {
@@ -197,9 +197,57 @@
                     "itemSelectMode": 0,
                     "items": [
                         {
-                            "bpPath": "/ATBombardierBeetle/BombardierBeetle/Resources/PrimalItemResource_OddlyYellowedGasball.PrimalItemResource_OddlyYellowedGasball",
+                            "bpPath": "/ATBombardierBeetle/BombardierBeetle/Resources/PrimalItermResource_ConspicuouslyBluePropellant.PrimalItermResource_ConspicuouslyBluePropellant",
                             "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 5000,
+                            "maxQuantityInTerminal": 1000,
+                            "quantityPerDino": 5,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0,
+                            "alternateItems": [],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "dinoType": "/Game/PrimalEarth/Dinos/Leech/Leech_Character.Leech_Character",
+            "chanceToProduce": 1,
+            "produces": [
+                {
+                    "intervalSeconds": 240,
+                    "itemSelectMode": 0,
+                    "items": [
+                        {
+                            "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_LeechBlood.PrimalItemResource_LeechBlood",
+                            "maxQuantityPerCycle": 0,
+                            "maxQuantityInTerminal": 2500,
+                            "quantityPerDino": 5,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0,
+                            "alternateItems": [],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "dinoType": "/Game/Aberration/Dinos/Lamprey/Lamprey_Character.Lamprey_Character",
+            "chanceToProduce": 1,
+            "produces": [
+                {
+                    "intervalSeconds": 240,
+                    "itemSelectMode": 0,
+                    "items": [
+                        {
+                            "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_LeechBlood.PrimalItemResource_LeechBlood",
+                            "maxQuantityPerCycle": 0,
+                            "maxQuantityInTerminal": 2500,
                             "quantityPerDino": 5,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
