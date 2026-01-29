@@ -1451,7 +1451,7 @@
                         {
                             "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_AnglerGel.PrimalItemResource_AnglerGel",
                             "maxQuantityPerCycle": 50,
-                            "maxQuantityInTerminal": 1000,
+                            "maxQuantityInTerminal": 10000,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
@@ -1475,7 +1475,7 @@
                         {
                             "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_AnglerGel.PrimalItemResource_AnglerGel",
                             "maxQuantityPerCycle": 50,
-                            "maxQuantityInTerminal": 1000,
+                            "maxQuantityInTerminal": 10000,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
